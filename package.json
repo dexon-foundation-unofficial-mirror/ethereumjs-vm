@@ -1,5 +1,5 @@
 {
-  "name": "ethereumjs-vm",
+  "name": "@dexon-foundation/ethereumjs-vm",
   "version": "2.4.0",
   "description": "An Ethereum VM implementation",
   "main": "dist/index.js",
@@ -69,9 +69,9 @@
   ],
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/ethereumjs/ethereumjs-vm/issues"
+    "url": "https://github.com/dexon-foundation/ethereumjs-vm/issues"
   },
-  "homepage": "https://github.com/ethereumjs/ethereumjs-vm",
+  "homepage": "https://github.com/dexon-foundation/ethereumjs-vm",
   "nyc": {
     "exclude": [
       "tests"
